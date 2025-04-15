@@ -1,12 +1,39 @@
-# React + Vite
+# Richard Asante's Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This website showcases my skills, projects, and passion for software development. It is built with a modern tech stack to highlight my abilities in both frontend and backend development.
 
-Currently, two official plugins are available:
+## 🛠️ Tech Stack
+- **Frontend**: React, TailwindCSS, React Router, Framer Motion
+- **Backend**: Formspree (for contact form)
+- **Hosting**: GitHub Pages (for deployment)
+- **Other Tools**: React Icons, VS Code
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- **Home Page**: Includes an introduction to myself, my skills, and social media links.
+- **Projects Page**: Displays a list of my personal and professional projects with descriptions and links to more details.
+- **Contact Page**: A contact form powered by Formspree, allowing visitors to reach out without needing to sign up.
+- **Responsive Design**: Optimized for both desktop and mobile devices, providing an engaging user experience.
 
-## Expanding the ESLint configuration
+## 💡 About This Project
+This portfolio is a reflection of my journey as a software developer. It highlights my proficiency in building web applications and demonstrates my attention to design and user experience. The site is live and hosted on GitHub Pages.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📍 Get in Touch
+Feel free to connect with me via the following:
+- [GitHub](https://github.com/Richard-codon)
+- [LinkedIn](https://www.linkedin.com/in/richard-asante-742117326/)
+- Email: richard@example.com
+
+## 💼 Check Out My Projects
+Explore my various projects:
+- **Project 1**: Expense Tracker App
+- **Project 2**: Voting Platform Web App
+- **Project 3**: Skin Disease Detection App
+
+## 🔧 Installation & Usage
+To view this project locally, clone the repository and run the following commands:
+
+```bash
+git clone https://github.com/Richard-codon/Personal-Portfolio.git
+cd Personal-Portfolio
+npm install
+npm start
