@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import developer from '../assets/developer.jpg';
+//import developer from '../assets/developer.jpg';
 
 const fadeIn = (direction = "up", delay = 0) => {
   return {
@@ -94,7 +94,7 @@ const Home = () => {
         className="md:w-1/2 mb-10 md:mb-0 flex justify-center"
       >
         <img
-          src={developer}
+          src="/Personal-Portfolio/developer.jpg"
           alt="Richard Asante"
           className="w-72 h-72 object-cover rounded-full border-[6px] border-blue-400 shadow-xl hover:scale-105 transition-transform duration-300"
         />
