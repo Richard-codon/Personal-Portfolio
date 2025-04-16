@@ -3,6 +3,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
+import hero from "../assets/hero-dev.svg"
 //import developer from '../assets/developer.jpg';
 
 const fadeIn = (direction = "up", delay = 0) => {
@@ -95,7 +96,7 @@ const Home = () => {
         className="md:w-1/2 mb-10 md:mb-0 flex justify-center"
       >
         <img
-          src={`${import.meta.env.BASE_URL}assets/developer.jpg`}
+          src={hero}
           alt="Richard Asante"
           className="w-72 h-72 object-cover rounded-full border-[6px] border-blue-400 shadow-xl hover:scale-105 transition-transform duration-300"
         />
