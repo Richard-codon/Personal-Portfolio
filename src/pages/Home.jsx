@@ -3,7 +3,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import hero from "../assets/hero-dev.svg"
+import hero from "../assets/hero-dev.svg";
 //import developer from '../assets/developer.jpg';
 
 const fadeIn = (direction = "up", delay = 0) => {
@@ -81,7 +81,7 @@ const Home = () => {
             Contact Me
           </Link>
           <a
-            href={`${import.meta.env.BASE_URL}RichardAsanteResume.pdf`}
+            href={`${import.meta.env.BASE_URL}RichardAsanteResume (5).pdf`}
             download
             className="bg-gray-800 hover:bg-gray-900 text-white px-6 py-3 rounded-xl shadow-lg transition"
           >
