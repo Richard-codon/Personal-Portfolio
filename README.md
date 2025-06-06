@@ -21,7 +21,7 @@ This portfolio is a reflection of my journey as a software developer. It highlig
 Feel free to connect with me via the following:
 - [GitHub](https://github.com/Richard-codon)
 - [LinkedIn](https://www.linkedin.com/in/richard-asante-742117326/)
-- Email: richard@example.com
+- Email: richardasante263@gmail.com
 
 ## 💼 Check Out My Projects
 Explore my various projects:
